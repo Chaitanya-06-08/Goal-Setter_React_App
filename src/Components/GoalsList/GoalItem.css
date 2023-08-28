@@ -1,0 +1,14 @@
+.goal-item{
+    margin: 10px auto;
+    padding: 15px;
+    background-color: rgb(130, 0, 59);
+    text-align:center;
+    min-width: 800px;
+    color: white;
+    font-weight: bolder;
+    font-size: 1rem;
+    border: none;
+}
+.goal-item:hover{
+    border: 2px solid white;
+}
