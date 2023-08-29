@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Goal-Setter_React_App/static/css/main.a2c062a5.css",
+    "main.js": "/Goal-Setter_React_App/static/js/main.ff83b9e2.js",
+    "index.html": "/Goal-Setter_React_App/index.html",
+    "main.a2c062a5.css.map": "/Goal-Setter_React_App/static/css/main.a2c062a5.css.map",
+    "main.ff83b9e2.js.map": "/Goal-Setter_React_App/static/js/main.ff83b9e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c062a5.css",
+    "static/js/main.ff83b9e2.js"
+  ]
+}
